@@ -1,0 +1,19 @@
+{
+    "name": "Noufan Travel and Tourism",
+    "legalName": "Noufan Travel and Tourism LLC",
+    "mainLocationShort": "Dubai, United Arab Emirates",
+    "mainLocationLong": "Karama, Dubai, United Arab Emirates",
+    "description": "this is a description",
+    "domain": "www.noufan.ae",
+    "googleTag": "G-RLZ49MGWPV",
+    "locations": [
+        {
+            "name": "Al Hulm Systems",
+            "location": "Sharjah"
+        },
+        {
+            "name": "Al Hulm Systems",
+            "location": "Sharjah"
+        }
+    ]
+}
