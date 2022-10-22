@@ -23,7 +23,7 @@ const Head = () => {
       link={[
         {
           rel: "icon",
-          href: "/assets/logo/logo.svg",
+          href: "/assets/logo4/logo.svg",
         },
         {
           rel: "stylesheet",
